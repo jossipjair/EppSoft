@@ -20554,6 +20554,16 @@
       "FilePath": "e:\\ProyectosProgramacion\\GestionEpp\\EppSoft\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\ProyectosProgramacion\\GestionEpp\\EppSoft\\Views\\Shared\\_LayoutLogin.cshtml",
+      "TargetPath": "Views\\Shared\\_LayoutLogin.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\ProyectosProgramacion\\GestionEpp\\EppSoft\\Views\\Login\\Login.cshtml",
+      "TargetPath": "Views\\Login\\Login.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
